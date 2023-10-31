@@ -26,6 +26,10 @@ nav a {
     text-decoration: none;
     color: black;
 }
+nav a:hover{
+    color: black;
+    text-decoration: underline;
+}
 
 body {
     background-color: aqua;
