@@ -70,6 +70,8 @@ h2 {
  .item-servicos {
     display: flex;
     border: 1px solid #000000;
+    width: 15%;
+    height: 290px;
 
  }
 
