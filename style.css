@@ -67,3 +67,9 @@ h2 {
     align-items: center;
  }
 
+ .item-servicos {
+    display: flex;
+    border: 1px solid #cccc;
+
+ }
+
