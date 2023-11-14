@@ -4,8 +4,8 @@
 }
 
 .logo {
-    width: 5%;
-    height: 5%;
+   width: 5%;
+   height: 5%;
 }
 
 .pai {
@@ -17,7 +17,7 @@
 
 nav li {
     display: inline;
-    padding: 20px;
+    padding: 20px ;
 }
 
 nav a {
@@ -26,8 +26,7 @@ nav a {
     text-decoration: none;
     color: black;
 }
-
-nav a:hover {
+nav a:hover{
     color: black;
     text-decoration: underline;
 }
@@ -36,7 +35,7 @@ body {
     background-color: aqua;
 }
 
-#banner {
+#banner{
     width: 100%;
 }
 
@@ -60,24 +59,23 @@ h2 {
     text-align: center;
     padding: 1%;
 }
-
-.servico {
+ .servico {
     width: 100vw;
     height: 300px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
-}
+ }
 
-.item-servicos {
+ .item-servicos {
     display: flex;
     border: 1px solid #000000;
     width: 15%;
     height: 290px;
     justify-content: center;
     align-items: flex-start;
-    color: black;
+    color:black;
     font-size: 40px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-transform: uppercase;
@@ -85,16 +83,19 @@ h2 {
     padding-top: 2%;
     box-shadow: 5px 5px #000000;
 
-}
-
+ }
+    
 #item1 {
-<<<<<<< HEAD
 background-image: url(https://images.unsplash.com/photo-1603899968034-1a56ca48d172?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     background-size: cover;   
 }
 #item2 {
     background-image: url(https://images.unsplash.com/photo-1634480789085-33416565117d?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
-=======
-    background-image: url(https://images.unsplash.com/photo-1603899968034-1a56ca48d172?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
->>>>>>> 349027c5cc5f4d4788816afbe41975a4a7c73417
-    background-size: cover
+    background-size: cover;
+}
+
+#item3 {
+    background-image: url(https://images.unsplash.com/photo-1634480789085-33416565117d?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+}
+
